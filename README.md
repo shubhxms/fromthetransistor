@@ -1,3 +1,5 @@
+Forked from [geohotz/fromthetransistor](https://github.com/geohotz/fromthetransistor) on 15th February, 2025.
+
 ## From the Transistor to the Web Browser
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
