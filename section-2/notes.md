@@ -1,0 +1,14 @@
+- Blinking
+  - Change LED state when counter value hits threshold
+  - Reset -> when counter overflows
+  - Counter counts every tick-tock as 1.
+  - LED changes state every 10 counts.
+
+- UART
+  - Universal Asynchronus Receiver/Transmitter
+  - Hardware Communication Protocol
+  - Devices must decide on transmission rate in advance ("baud rate")
+  - Full Duplex
+  - Use MMIO (Memory-Mapped Input/Output)
+    - Write or read from memory address to send or receive data
+  - 
